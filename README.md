@@ -4,7 +4,7 @@
 
 ## What do I do?
 
-I am a junior frontend developer with a focus on the MERN stack. I excel in developing dynamic websites using React.js and have practical experience in building a variety of web applications.I feel comfort to use tailwind css for design with react js in frontend and use firebase for authentication.
+I am a junior frontend developer with a focus on the MERN stack. I excel at developing dynamic websites using React.js and have practical experience building a variety of web applications. I feel comfortable using Tailwind CSS for design with ReactJS on the frontend and Firebase for authentication. There is ignorance of using Node.js, Express.js, and MongoDB in the backend.
 
 
 ![icon](https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/main/image/icon.png)
