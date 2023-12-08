@@ -1,5 +1,5 @@
 ### Hi there 👋
-![cover](https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/main/image/_Black%20White%20Geometric%20Fitness%20Facebook%20Cover.png)
+![cover](https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/main/image/cover.png)
 <!--
 **monjurBakthMazumder/monjurBakthMazumder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
