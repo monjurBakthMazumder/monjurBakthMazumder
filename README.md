@@ -8,6 +8,7 @@ I am a junior frontend developer with a focus on the MERN stack. I excel at deve
 
 <div align="center">
 
+## Technology and Tools
 ![monjurBakthMazumder's GitHub stats](https://github-readme-stats.vercel.app/api?username=monjurBakthMazumder&show_icons=true&theme=transparent)
 
 </div>
