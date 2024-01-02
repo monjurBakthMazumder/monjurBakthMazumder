@@ -22,12 +22,10 @@ I am a junior frontend developer with a focus on the MERN stack. I excel at deve
 <br />
 
 ## :chart_with_upwards_trend: Current Stats
-
 <br />
-
 <p align="center">
 <a href="https://github.com/monjurBakthMazumder">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=monjurBakthMazumder&theme=radical&border=7F3FBF&background=0D1117" alt="monjurBakthMazumder's GitHub streak" width="100%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=monjurBakthMazumder&theme=merko&border=7F3FBF&background=0D1117" alt="monjurBakthMazumder's GitHub streak" width="100%"/>
   </a>
 </p>
 <p align="center">
@@ -40,9 +38,13 @@ I am a junior frontend developer with a focus on the MERN stack. I excel at deve
     <a href="https://github.com/monjurBakthMazumder"><img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=monjurBakthMazumder&theme=outrun" width="49.5%"/></a>
   <a href="https://github.com/monjurBakthMazumder"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=monjurBakthMazumder&theme=outrun&utcOffset=8" width="49.5%"/></a>
   <br/>
-<div align="center">
 
-![monjurBakthMazumder's GitHub stats](https://github-readme-stats.vercel.app/api?username=monjurBakthMazumder&show_icons=true&theme=transparent)
+
+
+<div align="center">
+<br/>
+
+![monjurBakthMazumder's GitHub stats](https://github-readme-stats.vercel.app/api?username=monjurBakthMazumder&show_icons=true&theme=highcontrast&card_width=600px)
 
 </div>
 </a>
