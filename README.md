@@ -19,6 +19,35 @@ I am a junior frontend developer with a focus on the MERN stack. I excel at deve
 
 ![icon](https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/main/image/icon.png)
 
+<br />
+
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+
+<p align="center">
+<a href="https://github.com/monjurBakthMazumder">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=monjurBakthMazumder&theme=radical&border=7F3FBF&background=0D1117" alt="monjurBakthMazumder's GitHub streak" width="100%"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/monjurBakthMazumder">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monjurBakthMazumder&theme=outrun"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/monjurBakthMazumder"><img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=monjurBakthMazumder&theme=outrun" width="49.5%"/></a>
+  <a href="https://github.com/monjurBakthMazumder"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=monjurBakthMazumder&theme=outrun&utcOffset=8" width="49.5%"/></a>
+  <br/>
+<div align="center">
+
+![monjurBakthMazumder's GitHub stats](https://github-readme-stats.vercel.app/api?username=monjurBakthMazumder&show_icons=true&theme=transparent)
+
+</div>
+</a>
+</br>
+
 ## :eyes: Current overview
 
 ### 🔭 I’m currently - A Front-End developer with MERN stack technologies.
@@ -30,33 +59,6 @@ I am a junior frontend developer with a focus on the MERN stack. I excel at deve
 ### 🤔 I’m trying - To make a positive impact by using my web development skills to support.
 
 ### ⚡ Fun fact - Outside of coding, I'm a volunteer of Bangladesh Red Crescent Society (BDRCS) a part of the world's largest humanitarian non-governmental organization, The International Red Cross and Red Crescent Movement.
-
-<br />
-
-## :chart_with_upwards_trend: Current Stats
-
-<br />
-
-<p align="center">
-  <a href="https://github.com/monjurBakthMazumder">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monjurBakthMazumder&theme=outrun"/>
-  </a>
-</p>
-
-<a> 
-    <a href="https://github.com/monjurBakthMazumder"><img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=monjurBakthMazumder&theme=outrun" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/monjurBakthMazumder"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=monjurBakthMazumder&theme=outrun&utcOffset=8" height="192px" width="49.5%"/></a>
-  <br/>
-<div align="center">
-  <a href="https://github.com/monjurBakthMazumder">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=monjurBakthMazumder&theme=radical&border=7F3FBF&background=0D1117" alt="monjurBakthMazumder's GitHub streak"/>
-  </a>
-
-  ![monjurBakthMazumder's GitHub stats](https://github-readme-stats.vercel.app/api?username=monjurBakthMazumder&show_icons=true&theme=transparent)
-
-</div>
-</a>
-</br>
 
 <!--
 **monjurBakthMazumder/monjurBakthMazumder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
