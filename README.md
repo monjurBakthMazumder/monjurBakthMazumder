@@ -2,10 +2,30 @@
 
 ## Hi, I'm Md Monjur Bakth Mazumder
 
-I am a junior frontend developer with a focus on the MERN stack. I excel at developing dynamic websites using React.js and have practical experience building a variety of web applications. I feel comfortable using Tailwind CSS for design with ReactJS on the frontend and Firebase for authentication. There is ignorance of using Node.js, Express.js, and MongoDB in the backend.
+ I am a junior frontend developer with a focus on the MERN stack. I excel at developing dynamic websites using React.js and have practical experience building a variety of web applications. I feel comfortable using Tailwind CSS for design with ReactJS on the frontend and Firebase for authentication. There is ignorance of using Node.js, Express.js, and MongoDB in the backend.
 
-## Contact Me
 
+## Technology and Tools
+
+![icon](https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/main/image/icon.png)
+
+## Current Stats
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=monjurBakthMazumder&theme=merko&border=7F3FBF&background=0D1117" alt="monjurBakthMazumder's GitHub streak" width="100%"/>
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=monjurBakthMazumder&show_icons=true&theme=highcontrast" width="100%"/>
+</p>
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monjurBakthMazumder&theme=outrun" width="100%"/>
+<a> 
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=monjurBakthMazumder&theme=outrun" width="49.5%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=monjurBakthMazumder&theme=outrun&utcOffset=8" width="49.5%"/>
+</a>
+</p>
+
+## Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/md-monjur-bakth-mazumder/" target="_blank">
     <img height="75" src="https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/main/image/Linkedin.png">
@@ -15,42 +35,7 @@ I am a junior frontend developer with a focus on the MERN stack. I excel at deve
   </a>
 </p>
 
-## Technology and Tools
-
-![icon](https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/main/image/icon.png)
-
-<br />
-
-## :chart_with_upwards_trend: Current Stats
-<br />
-<p align="center">
-<a href="https://github.com/monjurBakthMazumder">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=monjurBakthMazumder&theme=merko&border=7F3FBF&background=0D1117" alt="monjurBakthMazumder's GitHub streak" width="100%"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/monjurBakthMazumder">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monjurBakthMazumder&theme=outrun" width="100%"/>
-  </a>
-</p>
-
-<a> 
-    <a href="https://github.com/monjurBakthMazumder"><img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=monjurBakthMazumder&theme=outrun" width="49.5%"/></a>
-  <a href="https://github.com/monjurBakthMazumder"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=monjurBakthMazumder&theme=outrun&utcOffset=8" width="49.5%"/></a>
-  <br/>
-
-
-
-<div align="center">
-<br/>
-
-![monjurBakthMazumder's GitHub stats](https://github-readme-stats.vercel.app/api?username=monjurBakthMazumder&show_icons=true&theme=highcontrast&card_width=600px)
-
-</div>
-</a>
-</br>
-
-## :eyes: Current overview
+## Current overview
 
 ### 🔭 I’m currently - A Front-End developer with MERN stack technologies.
 
