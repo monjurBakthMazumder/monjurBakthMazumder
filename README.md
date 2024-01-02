@@ -1,5 +1,7 @@
 ![cover](https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/main/image/cover.png)
 
+![cover](https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/main/image/cover2.png)
+
 ## Hi, I'm Md Monjur Bakth Mazumder
 
  I am a junior frontend developer with a focus on the MERN stack. I excel at developing dynamic websites using React.js and have practical experience building a variety of web applications. I feel comfortable using Tailwind CSS for design with ReactJS on the frontend and Firebase for authentication. There is ignorance of using Node.js, Express.js, and MongoDB in the backend.
