@@ -8,13 +8,10 @@ I am a junior frontend developer with a focus on the MERN stack. I excel at deve
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-monjur-bakth-mazumder/" target="_blank">
-    <img height="75" src="https://raw.githubusercontent.com/rokonroni/rokonroni/main/images/icons/Linkedin.png">
+    <img height="75" src="https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/main/image/Linkedin.png">
   </a>
   <a href="https://www.facebook.com/profile.php?id=100090451115337" target="_blank">
-    <img height="75" src="https://raw.githubusercontent.com/rokonroni/rokonroni/main/images/icons/Facebook.png">
-  </a>
-  <a href="https://www.instagram.com/md_monjur_bakth_mazumder/" target="_blank">
-    <img height="75" src="https://raw.githubusercontent.com/rokonroni/rokonroni/main/images/icons/Twitter.png">
+    <img height="75" src="https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/main/image/Facebook.png">
   </a>
 </p>
 
@@ -40,27 +37,24 @@ I am a junior frontend developer with a focus on the MERN stack. I excel at deve
 
 <br />
 
-<div align="center">
-
-![monjurBakthMazumder's GitHub stats](https://github-readme-stats.vercel.app/api?username=monjurBakthMazumder&show_icons=true&theme=transparent)
-
-</div>
 <p align="center">
   <a href="https://github.com/monjurBakthMazumder">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rokonroni&theme=radical&border=7F3FBF&background=0D1117" alt="monjurBakthMazumder's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/monjurBakthMazumder">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rokonroni&theme=outrun"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monjurBakthMazumder&theme=outrun"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/monjurBakthMazumder"><img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rokonroni&theme=outrun" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/monjurBakthMazumder"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rokonroni&theme=outrun&utcOffset=8" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/monjurBakthMazumder"><img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=monjurBakthMazumder&theme=outrun" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/monjurBakthMazumder"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=monjurBakthMazumder&theme=outrun&utcOffset=8" height="192px" width="49.5%"/></a>
   <br/>
+<div align="center">
+  <a href="https://github.com/monjurBakthMazumder">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=monjurBakthMazumder&theme=radical&border=7F3FBF&background=0D1117" alt="monjurBakthMazumder's GitHub streak"/>
+  </a>
+
+  ![monjurBakthMazumder's GitHub stats](https://github-readme-stats.vercel.app/api?username=monjurBakthMazumder&show_icons=true&theme=transparent)
+
+</div>
 </a>
 </br>
 
