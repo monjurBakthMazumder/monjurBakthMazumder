@@ -32,7 +32,7 @@ I am a junior frontend developer with a focus on the MERN stack. I excel at deve
 </p>
 <p align="center">
   <a href="https://github.com/monjurBakthMazumder">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monjurBakthMazumder&theme=outrun"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monjurBakthMazumder&theme=outrun" width="100%"/>
   </a>
 </p>
 
