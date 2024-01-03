@@ -1,14 +1,14 @@
 ![cover](https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/main/image/cover.png)
 
-## Hi, I'm Md Monjur Bakth Mazumder
+## Hi there, I'm Md Monjur Bakth Mazumder 👋
 
  I am a junior frontend developer with a focus on the MERN stack. I excel at developing dynamic websites using React.js and have practical experience building a variety of web applications. I feel comfortable using Tailwind CSS for design with ReactJS on the frontend and Firebase for authentication. There is ignorance of using Node.js, Express.js, and MongoDB in the backend.
 
-## Technology and Tools
+## Technology and Tools 🚀
 
 ![icon](https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/main/image/icon.png)
 
-## Current Stats
+## Current Stats 📊
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=monjurBakthMazumder&theme=merko&border=7F3FBF&background=0D1117" alt="monjurBakthMazumder's GitHub streak" width="100%"/>
@@ -24,7 +24,7 @@
 </a>
 </p>
 
-## Connect with Me
+## Connect with Me 🌐
 <p align="center">
   <a href="https://www.linkedin.com/in/md-monjur-bakth-mazumder/" target="_blank">
     <img height="75" src="https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/main/image/Linkedin.png">
@@ -34,7 +34,7 @@
   </a>
 </p>
 
-## Current overview
+## Current Overview 👨‍💻
 
 ### 🔭 I’m currently - A Front-End developer with MERN stack technologies.
 
