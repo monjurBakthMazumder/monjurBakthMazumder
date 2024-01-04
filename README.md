@@ -36,15 +36,15 @@
 
 ## Current Overview 👨‍💻
 
-### 🔭 I’m currently - A Front-End developer with MERN stack technologies.
+- 🔭 I’m currently - A Front-End developer with MERN stack technologies.
 
-### 🌱 I’m exploring - Advanced state management techniques in React and diving into Node.js for backend development.
+- 🌱 I’m exploring - Advanced state management techniques in React and diving into Node.js for backend development.
 
-### 👯 I’m looking - To connect with fellow developers and explore opportunities for collaborative open source projects.
+- 👯 I’m looking - To connect with fellow developers and explore opportunities for collaborative open source projects.
 
-### 🤔 I’m trying - To make a positive impact by using my web development skills to support.
+- 🤔 I’m trying - To make a positive impact by using my web development skills to support.
 
-### ⚡ Fun fact - Outside of coding, I'm a volunteer of Bangladesh Red Crescent Society (BDRCS) a part of the world's largest humanitarian non-governmental organization, The International Red Cross and Red Crescent Movement.
+- ⚡ Fun fact - Outside of coding, I'm a volunteer of Bangladesh Red Crescent Society (BDRCS) a part of the world's largest humanitarian non-governmental organization, The International Red Cross and Red Crescent Movement.
 
 <!--
 **monjurBakthMazumder/monjurBakthMazumder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
