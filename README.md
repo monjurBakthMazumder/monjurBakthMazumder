@@ -1,7 +1,4 @@
-<a href="https://github.com/monjurBakthMazumder">
-
 ![cover](https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/main/image/cover.png)
-</a>
 
 ## Hi there, I'm Md Monjur Bakth Mazumder 👋
 
@@ -19,7 +16,9 @@ I am a junior frontend developer with a focus on the MERN stack. I excel at deve
 </a>
 </p>
 <p align="center">
+<a href="https://github.com/monjurBakthMazumder">
     <img src="https://github-readme-stats.vercel.app/api?username=monjurBakthMazumder&show_icons=true&theme=highcontrast" width="100%"/>
+</a>
 </p>
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monjurBakthMazumder&theme=outrun" width="100%"/>
