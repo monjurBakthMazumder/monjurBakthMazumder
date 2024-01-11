@@ -25,7 +25,7 @@ I am a junior frontend developer with a focus on the MERN stack. I excel at deve
 <a href="https://github.com/monjurBakthMazumder">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monjurBakthMazumder&theme=outrun" width="100%"/>
 </a>
-<a> 
+<a href="https://github.com/monjurBakthMazumder"> 
 <img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=monjurBakthMazumder&theme=outrun" width="49.5%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=monjurBakthMazumder&theme=outrun&utcOffset=8" width="49.5%"/>
 </a>
