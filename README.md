@@ -1,20 +1,20 @@
 ![cover](https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/refs/heads/main/image/cover.jpeg)
 
-## Hi there, I'm Md Monjur Bakth Mazumder 👋
+## Hello, I'm Md Monjur Bakth Mazumder 👋
 
-A Full Stack and Lead Frontend Developer with a strong background in web development since 2021. Currently pursuing a diploma in Computer Technology at Moulvibazar Polytechnic Institute. Specializes in building dynamic, high-performance web applications focused on scalability, efficiency, and user experience.
+I am an experienced **Full Stack and Lead Frontend Developer** with a strong background in web development since 2021. Currently pursuing a diploma in **Computer Technology** at **Moulvibazar Polytechnic Institute**, I specialize in developing dynamic, high-performance web applications that prioritize **scalability, efficiency, and exceptional user experience**.
 
-Proficient in Python, Java, and C#, with a solid foundation in object-oriented programming. Skilled at solving complex problems and delivering scalable solutions for diverse client needs.
+Proficient in **Python, Java, and C#**, I have a solid foundation in **object-oriented programming** and am skilled in solving complex problems while delivering scalable solutions for diverse client needs. 
 
-A collaborative team player with a passion for coding, troubleshooting, and optimizing code. Always eager to learn and stay updated with the latest technologies, striving to contribute innovative solutions in every project.
-
+As a collaborative team player, I am passionate about coding, troubleshooting, and optimizing code. I continuously strive to stay updated with the latest technologies and am committed to contributing innovative solutions to every project.
 
 ![cover](https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/refs/heads/main/image/cover2.jpeg)
-## Technology and Tools 🚀
+
+## Technologies & Tools 🚀
 
 ![icon](https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/main/image/icon.png)
 
-## Current Stats 📊
+## My GitHub Stats 📊
 
 <p align="center">
 <a href="https://github.com/monjurBakthMazumder">
@@ -32,7 +32,7 @@ A collaborative team player with a passion for coding, troubleshooting, and opti
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monjurBakthMazumder&theme=outrun" width="100%"/>
 </a>
 <a href="https://github.com/monjurBakthMazumder"> 
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=monjurBakthMazumder&theme=outrun" width="49.5%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=monjurBakthMazumder&theme=outrun" width="49.5%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=monjurBakthMazumder&theme=outrun&utcOffset=8" width="49.5%"/>
 </a>
 </p>
@@ -48,16 +48,10 @@ A collaborative team player with a passion for coding, troubleshooting, and opti
   </a>
 </p>
 
-## Current Overview 👨‍💻
+## Overview 👨‍💻
 
-- 🔭 I’m currently - A Front-End developer with MERN stack technologies.
-
-- 🌱 I’m exploring - Advanced state management techniques in React and diving into Node.js for backend development.
-
-- 👯 I’m looking - To connect with fellow developers and explore opportunities for collaborative open source projects.
-
-- 🤔 I’m trying - To make a positive impact by using my web development skills to support.
-
-- ⚡ Fun fact - Outside of coding, I'm a volunteer of Bangladesh Red Crescent Society (BDRCS) a part of the world's largest humanitarian non-governmental organization, The International Red Cross and Red Crescent Movement.
-
-
+- 🔭 **Currently**: Working as a **Front-End Developer** specializing in **MERN stack technologies**.
+- 🌱 **Exploring**: Advanced **state management** techniques in **React** and expanding my knowledge of **Node.js** for backend development.
+- 👯 **Looking**: To connect with fellow developers and collaborate on innovative **open-source projects**.
+- 🤔 **Goal**: Striving to make a positive impact by leveraging my **web development skills** to support and empower others.
+- ⚡ **Fun Fact**: Outside of coding, I volunteer with the **Bangladesh Red Crescent Society (BDRCS)**, which is part of the world’s largest humanitarian non-governmental organization, **The International Red Cross and Red Crescent Movement**.
