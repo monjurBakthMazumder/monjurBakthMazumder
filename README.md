@@ -10,9 +10,13 @@ As a collaborative team player, I am passionate about coding, troubleshooting, a
 
 ![cover](https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/refs/heads/main/image/cover2.jpeg)
 
-## Technologies & Tools 🚀
+## Skills
 
-![icon](https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/main/image/icon.png)
+- **Languages**: JavaScript, TypeScript
+- **Frontend**: React.js, Next.js, Redux
+- **Backend**: Node.js, Express.js
+- **Databases**: MongoDB, Mongoose, MySQL, PostgreSQL, Firebase
+- **Others**: GraphQL, Prisma, Docker, AWS
 
 ## My GitHub Stats 📊
 
