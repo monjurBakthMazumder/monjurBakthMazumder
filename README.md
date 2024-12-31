@@ -2,9 +2,14 @@
 
 ## Hi there, I'm Md Monjur Bakth Mazumder 👋
 
-I am a junior frontend developer with a focus on the MERN stack. I excel at developing dynamic websites using React.js and have practical experience building a variety of web applications. I feel comfortable using Tailwind CSS for design with ReactJS on the frontend and Firebase for authentication. There is ignorance of using Node.js, Express.js, and MongoDB in the backend.
+A Full Stack and Lead Frontend Developer with a strong background in web development since 2021. Currently pursuing a diploma in Computer Technology at Moulvibazar Polytechnic Institute. Specializes in building dynamic, high-performance web applications focused on scalability, efficiency, and user experience.
 
-![cover](https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/refs/heads/main/image/cover.jpeg)
+Proficient in Python, Java, and C#, with a solid foundation in object-oriented programming. Skilled at solving complex problems and delivering scalable solutions for diverse client needs.
+
+A collaborative team player with a passion for coding, troubleshooting, and optimizing code. Always eager to learn and stay updated with the latest technologies, striving to contribute innovative solutions in every project.
+
+
+![cover](https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/refs/heads/main/image/cover2.jpeg)
 ## Technology and Tools 🚀
 
 ![icon](https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/main/image/icon.png)
@@ -55,17 +60,4 @@ I am a junior frontend developer with a focus on the MERN stack. I excel at deve
 
 - ⚡ Fun fact - Outside of coding, I'm a volunteer of Bangladesh Red Crescent Society (BDRCS) a part of the world's largest humanitarian non-governmental organization, The International Red Cross and Red Crescent Movement.
 
-<!--
-**monjurBakthMazumder/monjurBakthMazumder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
