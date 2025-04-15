@@ -1,4 +1,4 @@
-![cover](https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/refs/heads/main/image/cover.jpeg)
+![cover](https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/refs/heads/main/image/cover.png)
 
 ## Hello, I'm Md Monjur Bakth Mazumder 👋
 
