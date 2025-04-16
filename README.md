@@ -2,12 +2,7 @@
 
 ## Hello, I'm Md Monjur Bakth Mazumder 👋
 
-I am an experienced **Full Stack and Lead Frontend Developer** with a strong background in web development since 2021. Currently pursuing a diploma in **Computer Technology** at **Moulvibazar Polytechnic Institute**, I specialize in developing dynamic, high-performance web applications that prioritize **scalability, efficiency, and exceptional user experience**.
-
-Proficient in **Python, Java, and C#**, I have a solid foundation in **object-oriented programming** and am skilled in solving complex problems while delivering scalable solutions for diverse client needs. 
-
-As a collaborative team player, I am passionate about coding, troubleshooting, and optimizing code. I continuously strive to stay updated with the latest technologies and am committed to contributing innovative solutions to every project.
-
+I'm Md Monjur Bakth Mazumder, a highly experienced Software Engineer & Lead Frontend Developer at Qrinux, with over 3 years of hands-on experience in the industry. I lead the frontend team in building dynamic, user-focused web applications that are both visually compelling and technically sound. With a strong grasp of software development principles, I enjoy solving complex challenges and delivering high-quality, tailored solutions. I'm deeply committed to continuous growth—refining my technical skills and enhancing team collaboration to drive successful project outcomes.
 ![cover](https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/refs/heads/main/image/cover2.png)
 
 ## Skills
