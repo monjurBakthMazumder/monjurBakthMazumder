@@ -8,7 +8,7 @@ Proficient in **Python, Java, and C#**, I have a solid foundation in **object-or
 
 As a collaborative team player, I am passionate about coding, troubleshooting, and optimizing code. I continuously strive to stay updated with the latest technologies and am committed to contributing innovative solutions to every project.
 
-![cover](https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/refs/heads/main/image/cover2.jpeg)
+![cover](https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/refs/heads/main/image/cover2.png)
 
 ## Skills
 
